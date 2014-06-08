@@ -14,7 +14,7 @@ static int matrix[ROWNUM][COLNUM] =
 	{ 0, 0, 28, 0, 0, 24 }
 };
 
-//실제 구현 여부를 확인하는 메인 함수.
+//실제 구현 여부를 확인하는 메인 함수..
 int main(void){
 
 	spars_t* sMatrix;
